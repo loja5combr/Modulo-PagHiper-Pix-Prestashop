@@ -23,15 +23,18 @@
 
 ![Instalar](https://i.imgur.com/mbZjywk.png)
 
-4 - Após instalado com sucesso o mesmo vai exibir na lista de seus módulos de pagamento, localize o módulo e clique em <b>Instalar</b> caso o mesmo ainda não esteja instalado.
+4 - Após instalado com sucesso o mesmo vai exibir na lista de seus módulos de pagamento, localize o módulo (senão o encontrar tente buscar, filtrar por pix) e clique em <b>Instalar</b> caso o mesmo ainda não esteja instalado.
 
-![Instalado](https://i.imgur.com/Dk0geP6.png)
+![Instalado](https://i.imgur.com/ijfHflM.png)
 
-5 - Após instalado com acesso acesse a configuração do mesmo e informe suas credenciais de integração PagHiper obtidas em sua conta.
+5 - Após instalado com acesso acesse a configuração do mesmo e informe suas credenciais de integração PagHiper Pix obtidas em sua conta.
 Acesse o menu: https://www.paghiper.com/painel/credenciais/ para obter as mesmas.
 
-![config](https://i.imgur.com/QPzZXYt.png)
+![config 1](https://i.imgur.com/Vk2pfvj.png)
+![config 2](https://i.imgur.com/10KINgK.png)
 
-6 - Após configurado corretamente é só testar, em caso de problemas visualize os logs de sua loja.
+<i>Atenção: Abaixo de cada campo existe instruções, siga as mesmas para correta configuração.</i>
+
+6 - Após configurado corretamente é só testar, em caso de problemas de integração ative o modo Debug que existe na configuração do módulo, teste um pedido e visualize os logs de sua loja no menu PagHiper Pix > Logs, com a loja em produção desative o modo Debug.
 
 
