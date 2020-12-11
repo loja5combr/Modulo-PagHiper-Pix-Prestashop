@@ -4,6 +4,7 @@
 - Conta vendedor ativada junto a PagHiper - https://paghiper.com
 
 <h3>Downloads</h3>
+
 - Prestashop 1.6.x baixe em https://github.com/loja5combr/Modulo-PagHiper-Pix-Prestashop/blob/main/PagHiper%20Pix%201.0%20-%20Prestashop%201.6.x/paghiperpix.zip
 - Prestashop 1.7.x baixe em https://github.com/loja5combr/Modulo-PagHiper-Pix-Prestashop/blob/main/PagHiper%20Pix%201.0%20-%20Prestashop%201.7.x/paghiperpix.zip
 
