@@ -3,6 +3,10 @@
 - Prestashop 1.6.x ou 1.7.x
 - Conta vendedor ativada junto a PagHiper - https://paghiper.com
 
+<h3>Downloads</h3>
+- Prestashop 1.6.x baixe em https://github.com/loja5combr/Modulo-PagHiper-Pix-Prestashop/blob/main/PagHiper%20Pix%201.0%20-%20Prestashop%201.6.x/paghiperpix.zip
+- Prestashop 1.7.x baixe em https://github.com/loja5combr/Modulo-PagHiper-Pix-Prestashop/blob/main/PagHiper%20Pix%201.0%20-%20Prestashop%201.7.x/paghiperpix.zip
+
 <h3>Como instalar Módulo de integração PagHiper Pix para Prestashop</h3>
 1 - Acesse o painel administrativo de sua loja loja Prestashop
 
@@ -12,8 +16,9 @@
 
 ![Menu](https://i.imgur.com/Do6LpqB.png)
 
-3 - No canto superior direito clique em <b>Adicione um novo módulo</b> que vai abrir uma caixa e depois selecione o módulo qual deseja instalar em <b>Escolher ficheiro</b> e localize o arquivo do módulo <b>boletopaghiper.zip</b> e o selecione, após selecionado é só clicar em <b>Enviar este módulo</b>
-<i>Fique atendo para escolher a versão correta (1.6.x ou 1.7.x) do módulo, cada módulo possui sua propria versão!</i>
+3 - No canto superior direito clique em <b>Adicione um novo módulo</b> que vai abrir uma caixa e depois selecione o módulo qual deseja instalar em <b>Escolher ficheiro</b> e localize o arquivo do módulo <b>paghiperpix.zip</b> e o selecione, após selecionado é só clicar em <b>Enviar este módulo</b>
+
+<i>Atenção: Fique atento para escolher a versão correta (1.6.x ou 1.7.x) do módulo, cada módulo possui sua propria versão!</i>
 
 ![Instalar](https://i.imgur.com/mbZjywk.png)
 
