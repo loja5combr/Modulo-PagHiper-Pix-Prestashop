@@ -74,6 +74,7 @@ class PagHiperPixConfirmarModuleFrontController extends ModuleFrontController
 		$json['payer_name'] = $cliente->firstname.' '.$cliente->lastname;
 		$json['payer_cpf_cnpj'] = $numero_fiscal;
 		$json['payer_phone'] = $telefone;
+		$json['partners_id'] = 'Y8KE7A9F';
 		$json['notification_url'] = Context::getContext()->link->getModuleLink('paghiperpix', 'ipn', array('ajax'=>'true','id'=>$carrinho->id,'key'=>$carrinho->secure_key));
 		$json['discount_cents'] = number_format(abs($desconto), 2, '', '');
 		$json['shipping_price_cents'] = number_format($frete, 2, '', '');
